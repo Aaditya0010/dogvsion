@@ -221,10 +221,8 @@ def run():
         st.markdown('---')
         
         st.markdown("<h3 style='text-align: left; color: #4d8df2; font-size: 24px;'>Creator Details</h3>", unsafe_allow_html=True)
-        st.markdown("<p style='text-align: left; font-size: 16px;'>Aaditya yadav😄</p>", unsafe_allow_html=True)
+        st.markdown("<p style='text-align: left; font-size: 16px;'>Aaditya yadav, Aditya Kumar Singh, Aditya Sharma, Ankit Singh</p>", unsafe_allow_html=True)
         st.markdown("<p style='text-align: left; font-size: 16px;'>Pranveer Singh Institute of Technology, Kanpur 🎓</p>", unsafe_allow_html=True)
-        st.markdown("<p style='text-align: left; font-size: 16px;'>👨‍💻Github Link: <a href='https://github.com/RushikeshKothawade07/Dog_Vision' target='_blank'>https://github.com/RushikeshKothawade07</a></p>", unsafe_allow_html=True)
-        st.markdown("<p style='text-align: left; font-size: 16px;'>🎯YouTube Channel: <a href='https://www.youtube.com/@MLTakes' target='_blank'>ML Takes</a>❤️🤑</p>", unsafe_allow_html=True)
         st.markdown('---')
 
 def img_to_base64(image):
